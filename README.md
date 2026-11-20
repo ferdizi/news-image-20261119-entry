@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/ferdizi/news-image-20261119-entry/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/ferdizi/news-image-20261119-entry/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One image summing up Thursday 19 November 2026: 40 stories across 7 regions as a broadsheet front page — 13 illustrated mains led by the first-ever Trump–Xi–Putin trilateral summit in Shenzhen, the ICJ's 9–6 genocide ruling against Myanmar, and the COP31 draft dropping all fossil-fuel mention, plus a dotted world map with numbered pins, a day-in-numbers strip, a RIGOR BAR (39 confirmed · 1 claim · 0 forecast), a one-sentence verdict with a UTC timeline, and a date check naming the stories deliberately left out. Every story happened, or was first reported, on 19 November 2026; the single single-source claim (the Pakistan raid) is flagged.
+One image summing up Thursday 19 November 2026: 35 stories across 7 regions as a broadsheet front page — 13 illustrated mains led by the first-ever Trump–Xi–Putin trilateral summit in Shenzhen, the ICJ's 9–6 genocide ruling against Myanmar, and the COP31 draft dropping all fossil-fuel mention, plus a dotted world map with numbered pins, a key-numbers strip, a RIGOR BAR (34 confirmed · 1 claim · 0 forecast), a one-sentence verdict with a UTC timeline, and a date check naming the stories deliberately left out. Every story happened, or was first reported, on 19 November 2026; the single single-source claim (the Pakistan raid) is flagged.
 
 ## Run it
 
